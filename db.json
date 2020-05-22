@@ -1,4 +1,8 @@
 {
-    "destination": "https://my.bookwell.com.au/onboarding?token=fbaa969e-2049-4122-bc3f-961c22ffa65e",
-    "bookwell": "https://my.bookwell.com.au/onboarding?token=fbaa969e-2049-4122-bc3f-961c22ffa65e"
+    "destination": {
+        "redirect": "https://my.bookwell.com.au/onboarding?token=fbaa969e-2049-4122-bc3f-961c22ffa65e"
+    },
+    "bookwell": {
+        "redirect": "https://my.bookwell.com.au/onboarding?token=fbaa969e-2049-4122-bc3f-961c22ffa65e"
+    }
 }
